@@ -1,3 +1,4 @@
+# Python v 3.7
 # -*- coding: utf-8 -*-
 upper_chr=''.join(list(map(chr, (i for i in range(ord('А'),ord('Я')+1)))))
 lower_chr=''.join(list(map(chr, (i for i in range(ord('а'),ord('я')+1)))))
